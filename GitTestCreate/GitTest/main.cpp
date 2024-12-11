@@ -6,4 +6,5 @@ void main() {
 	std::cin >> name;
 
 	std::cout << "Hola " << name << " kys!" << "\n";
+
 }
